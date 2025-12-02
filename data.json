@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sharif",
+      "email": "ah@gmail.com",
+      "password": "developer"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "name": "sh",
+      "date": "2025-12-02T00:00:00Z",
+      "status": "pending",
+      "user_id": 1,
+      "category_id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "idk",
+      "user_id": 1
+    }
+  ]
+}
